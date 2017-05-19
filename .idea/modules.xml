@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Demos.iml" filepath="$PROJECT_DIR$/Demos.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/floatimageview/floatimageview.iml" filepath="$PROJECT_DIR$/floatimageview/floatimageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handlerthread_dead/handlerthread_dead.iml" filepath="$PROJECT_DIR$/handlerthread_dead/handlerthread_dead.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxyfactorydemo/proxyfactorydemo.iml" filepath="$PROJECT_DIR$/proxyfactorydemo/proxyfactorydemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/readxlsx/readxlsx.iml" filepath="$PROJECT_DIR$/readxlsx/readxlsx.iml" />
       <module fileurl="file://$PROJECT_DIR$/testasynctask/testasynctask.iml" filepath="$PROJECT_DIR$/testasynctask/testasynctask.iml" />
     </modules>

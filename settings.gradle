@@ -1,1 +1,1 @@
-include ':app', ':readxlsx', ':testasynctask'
+include ':app', ':readxlsx', ':testasynctask', ':handlerthread_dead', ':floatimageview', ':proxyfactorydemo'

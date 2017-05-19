@@ -9,6 +9,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/floatimageview" />
+            <option value="$PROJECT_DIR$/handlerthread_dead" />
+            <option value="$PROJECT_DIR$/proxyfactorydemo" />
             <option value="$PROJECT_DIR$/readxlsx" />
             <option value="$PROJECT_DIR$/testasynctask" />
           </set>
